@@ -26,6 +26,7 @@ Then open `http://localhost:3000` in your browser.
 This app uses QVAC's `loadModel()` and `completion()` functions to run AI locally on the device.
 Built using Tether's QVAC SDK.
 This project runs AI locally on the device using QVAC.
-## License
+
+# License
 
 MIT License.
